@@ -31,5 +31,3 @@ Easy, simple decision-making that really shows its value the more friends you ha
 ### Postface
 Choosie Foodie is the culmination of ten weeks of training at Le Wagon's fullstack bootcamp. The app was made with focus and dedication over the course of two weeks. Its WeChat Mini Program front end is also available on Github.
 
-### Scan the code below by WeChat to use this uni-app:
-![Untitled-1](https://user-images.githubusercontent.com/95343944/208679675-ac63283b-c757-40c4-8084-fdf68f73e2e1.png)
